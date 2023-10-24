@@ -12,7 +12,7 @@ The page talk about three main servecis that are provided by Heroseon. They are:
 </p>
 
 <h2>Installation</h2>  
-  <p>No installation is required, simply follow the link <a href="">here</a>.
+  <p>No installation is required, simply follow the link <a href="">here</a> to go straight to the website.
 </p>  
 
 <h2>Usage</h2>
