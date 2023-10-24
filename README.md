@@ -12,13 +12,13 @@ The page talk about three main servecis that are provided by Heroseon. They are:
 </p>
 
 <h2>Installation</h2>  
-  <p>No installation is required, simply follow the link <a href="">here</a> to go straight to the website.
+  <p>No installation is required, simply follow the link <a href="https://avnib82.github.io/Horiseon-Online-Marketing/">here</a> to go straight to the website.
 </p>  
 
 <h2>Usage</h2>
- <p>Open the page <a href="">here</a> and follow the navigation at the top right hand side to navigate through the page or simply scroll down.
+ <p>Open the page <a href="https://avnib82.github.io/Horiseon-Online-Marketing/">here</a> and follow the navigation at the top right hand side to navigate through the page or simply scroll down.
 </p>
-<img src="">
+<img src="assets\images\Horiseon-Online-Marketing.png">
 <h2>Collaborating</h2>  
   <p>This is a solo project. If you have feedback or suggestions, please contact Horiseon.
 </p>
